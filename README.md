@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: hansson_erik@outlook.com
-- 🔭 I’m currently working on ... https://about.hanssonerik.vercel.app/
+- 🔭 I’m currently working on ... https://nextjs.hanssonerik.vercel.app/
 
 <!--
 **hanssonerik/hanssonerik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
